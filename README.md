@@ -14,7 +14,7 @@ If you're taking our [course](https://courses.gymna.si/courses/course-v1:GYM+014
 
 ## 1. Launching a Workspace
 
-- Click this <a href="https://gitpod.io/#https://github.com/gymnasium/patternlab" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
+- Click this [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/gymnasium/patternlab)
 - You will be redirected to the Gitpod site where you'll be prompted to log in using your GitHub account
 - Sit back and watch while Gitpod creates a workspace for your project and installs Pattern Lab
 
