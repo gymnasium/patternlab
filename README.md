@@ -14,7 +14,7 @@ If you're taking our [course](https://courses.gymna.si/courses/course-v1:GYM+014
 
 ## 1. Launching a Workspace
 
-- Click this [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/gymnasium/patternlab)
+- Click this <a href="https://gitpod.io/#https://github.com/gymnasium/patternlab" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
 - You will be redirected to the Gitpod site where you'll be prompted to log in using your GitHub account
 - Sit back and watch while Gitpod creates a workspace for your project and installs Pattern Lab
 
@@ -28,7 +28,6 @@ If you're taking our [course](https://courses.gymna.si/courses/course-v1:GYM+014
 - Locate the tool palette on the lower left-hand side of your workspace window that is titled "NPM SCRIPTS" and click the triangular icon that appears when you hover your cursor over the "pl:serve" item
 - Alternatively, you can type the command `npm run pl:serve` into the terminal window in your workspace and press <kbd>Return</kbd> to run Pattern Lab
 - Pattern Lab's interface will appear in a new browser tab
-
 
 ## 3. Stopping (and Restarting) a Workspace
 
