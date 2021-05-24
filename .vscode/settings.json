@@ -1,0 +1,4 @@
+{
+    "npm.enableRunFromFolder": true,
+    "npm.scriptExplorerAction": "run"
+}
