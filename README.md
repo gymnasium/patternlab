@@ -42,3 +42,12 @@ If you're taking our [course](https://courses.gymna.si/courses/course-v1:GYM+014
 - You can commit your changes to your own fork of this repository
 - You can download the workspace and its files from [your Gitpod dashboard](https://gitpod.io/workspaces)
 - **NOTE:** Gitpod retains active (and pinned) workspaces indefinitely, but purges inactive ones after 14 days
+
+   
+   
+
+![Gitpod Screenshot](gitpod-screenshot.png)
+**1.** Gitpod Application Menu
+
+**2.** NPM Scripts palette
+
