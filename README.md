@@ -10,7 +10,7 @@ Gitpod is a cloud-based service that will let you build and run software directl
 
 If you're planning to use Pattern Lab to develop and manage your pattern libraries we recommend that you fork this repository first (and change the url in the big blue button in the next section).
 
-If you're taking our [course](https://courses.gymna.si/courses/course-v1:GYM+014+0/about) and you want to get straight into learning how to use Pattern Lab without having to deal with installing a million things first, then...
+If you're taking our [course](https://thegymnasium.com/courses/course-v1:GYM+014+0/about) and you want to get straight into learning how to use Pattern Lab without having to deal with installing a million things first, then...
 
 ## 1. Launching a Workspace
 
